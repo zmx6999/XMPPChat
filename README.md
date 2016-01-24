@@ -3,7 +3,7 @@
 
 消息界面
 
-![Image](https://github.com/zmx6999/XMPPChat/blob/master/DescriptionImages/IMG_0999.jpg)
+![Image](https://github.com/zmx6999/XMPPChat/blob/master/DescriptionImages/IMG_1001.jpg)
 
 联系人界面
 
@@ -15,7 +15,7 @@
 
 群聊界面
 
-![Image](https://github.com/zmx6999/XMPPChat/blob/master/DescriptionImages/IMG_1001.jpg)
+![Image](https://github.com/zmx6999/XMPPChat/blob/master/DescriptionImages/IMG_0999.jpg)
 
 用户界面
 
