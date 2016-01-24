@@ -1,0 +1,17 @@
+//
+//  EditInfoViewController.h
+//  UseXmpp
+//
+//  Created by zmx on 16/1/20.
+//  Copyright © 2016年 zmx. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface EditInfoViewController : UIViewController
+
+@property (nonatomic, copy) NSString *oldStr;
+
+@property (nonatomic, copy) NSString *identifier;
+
+@end
